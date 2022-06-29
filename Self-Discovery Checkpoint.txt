@@ -1,0 +1,30 @@
+ - Name your 3 main technical skills 
+	1- General computer skills
+	2- Programming languages
+	3- Research skills
+ 
+ - Name your 3 main generic skills (Soft Skills) 
+	1- Teamwork
+	2- Communication
+	3- Planning and organising
+
+ - Name 3 of your main values:
+	1- courage
+	2- adventurous
+	3- compassion
+
+- Name 3 of your main  anti-values:
+	1- Problem solving
+	2- Leadership
+	3- Adaptability
+
+- Name your professional objective (SMART):
+	* Specific: I’m going to help the team communicate better to free up time wasted on communication inefficiencies. 
+		    This way, the team can spend this time on their core responsibilities instead.
+	* Measurable: Our time-tracking software shows that team members spend an average of 1.5 hours per day on email.
+		      We aim to cut this time in half to 45 minutes per day.
+	* Achievable: We can avoid the confusion created by long email chains with a team messaging solution like Slack.
+                      If we implement a messaging solution, it’s plausible that we can drastically reduce the time spent on email.
+	* Relevant: I want to empower my team to produce their best work and increase their impact by reducing time wasted
+                    on unnecessary and inefficient tasks.
+	* Time-bound: We will implement a messaging solution within two weeks and half the time spent on communication within the next month.
